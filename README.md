@@ -1,3 +1,6 @@
+# Imagen de la web
+![image](https://user-images.githubusercontent.com/124212478/222332148-0cc79da6-daa6-441c-ab13-5eed240d9518.png)
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
